@@ -56,7 +56,7 @@ site:
           path: input-structuring
           default: true
           content:
-            directory: ./input-structure/input-structuring
+            directory: ./input-structure
     - type: section
       key: section-5
       title: Old Docs
